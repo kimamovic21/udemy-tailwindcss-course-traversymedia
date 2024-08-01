@@ -1,0 +1,9 @@
+Tailwind CSS From Scratch | Learn By Building Projects
+
+Section 01: Introduction
+01. Introduction
+02. Course Outline & Projects
+03. Project Links
+04. What Is Tailwind CSS ?
+05. Basic Environment Setup
+06. Tailwind Sandbox Setup

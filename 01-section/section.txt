@@ -1,0 +1,15 @@
+Section 01: Introduction
+
+01. Introduction
+
+02. Course Outline & Projects
+
+03. Project Links
+
+04. What Is Tailwind CSS ?
+-otvorimo web stranicu https://tailwindcss.com/
+
+05. Basic Environment Setup
+-VS Code ekstenzije za Tailwind CSS
+
+06. Tailwind Sandbox Setup
