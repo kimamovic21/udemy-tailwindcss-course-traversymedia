@@ -7,3 +7,14 @@ Section 01: Introduction
 04. What Is Tailwind CSS ?
 05. Basic Environment Setup
 06. Tailwind Sandbox Setup
+
+Section 02: Tailwind Fundamentals - Part 1
+07. Utility-First Example
+08. Working With Colors
+09. Container & Spacing
+10. Typography
+11. Sizing (Width & Height)
+12. Layout & Position
+13. Backgrounds & Shadows
+14. Borders & Border Radius
+15. Filters

@@ -1,0 +1,42 @@
+Section 02: Tailwind Fundamentals - Part 1
+
+07. Utility-First Example
+-u folderu components kreiramo folder 01-utility-first i komponentu UtilityFirst.jsx
+-instaliramo Vite React.js aplikaciju
+-instaliramo Tailwind CSS paket
+-u App.jsx komponenti kreiramo HTML elemente
+-kreiranim HTML elementima dodajemo Tailwind CSS Utility klase
+
+08. Working With Colors
+-u folderu components kreiramo folder 02-colors i komponentu Colors.jsx
+-HTML elementima dodajemo Tailwind CSS klase za boju teksta i pozadine
+
+09. Container & Spacing
+-u folderu components kreiramo folder 03-container-spacing i komponentu ContainerSpacing.jsx
+-HTML elementima dodajemo Tailwind CSS klase za marginu i padiranje
+
+10. Typography
+-u folderu components kreiramo folder 04-layout-typography i komponentu Typography.jsx
+-u tailwind.config.js fajl dodajemo objekt theme u kojima se nalaze property font family
+-HTML elementima dodajemo Tailwind CSS klase za stiliziranje velicine slova
+
+11. Sizing (Width & Height)
+-u folderu components kreiramo folder 05-layout-sizing i komponentu Sizing.jsx
+-HTML elemente dodajemo Tailwind CSS klase za stiliziranje sirine i visine elemenata
+
+12. Layout & Position
+-u folderu components kreiramo folder 06-layout-position i komponentu LayoutPosition.jsx
+-HTML elementima dodajemo Tailwind CSS klase za pozicioniranje elemenata
+
+13. Backgrounds & Shadows
+-u folderu components kreiramo folder 07-backgrounds-shadows i komponentu BackgroundsShadows.jsx
+-HTML elementima dodajemo Tailwind CSS klase za stiliziranje pozadine i sjene
+
+14. Borders & Border Radius
+-u folderu components kreiramo folder 08-borders i komponentu Borders.jsx
+-HTML elementima dodajemo Tailwind CSS klase za rubove i zakrivljenost coskova
+
+15. Filters
+-u folderu components kreiramo folder 09-filters i komponentu Filters.jsx
+-HTML elemntima dodajemo Tailwind CSS klase za efekte elemenata i slika
+
