@@ -18,3 +18,14 @@ Section 02: Tailwind Fundamentals - Part 1
 13. Backgrounds & Shadows
 14. Borders & Border Radius
 15. Filters
+
+Section 03: Tailwind Fundamentals - Part 2
+16. Interactivity
+17. Breakpoint Classes & Media Queries
+18. Columns
+19. Flexbox
+20. Grid
+21. Transitions & Transform
+22. Animation Classes & Keyframes
+23. Config & Customization
+24. Dark Mode

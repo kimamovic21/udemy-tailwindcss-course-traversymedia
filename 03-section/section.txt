@@ -1,0 +1,45 @@
+Section 03: Tailwind Fundamentals - Part 2
+
+16. Interactivity
+-u folderu components kreiramo folder 10-interactivity i komponentu Interactivity.jsx
+-HTML elementima dodajemo Tailwind CSS klase za interakciju
+
+17. Breakpoint Classes & Media Queries
+-u folderu components kreiramo folder 11-breakpoints i komponentu Breakpoints.jsx
+-HTML elementima dodajemo Tailwind CSS breakpoint klase sm:, md:, lg:, xl:, 2xl: 
+
+18. Columns
+-u folderu components kreiramo folder 12-columns i komponentu Columns.jsx
+-HTML elementima dodajemo Tailwind CSS klase za stiliziranje slika
+
+19. Flexbox
+-u folderu components kreiramo folder 13-flex i komponentu Flex.jsx
+-HTML elementima dodajemo Tailwind CSS klase za flexbox
+
+20. Grid
+-u folderu components kreiramo folder 14-grid i komponentu Grid.jsx
+-HTML elementima dodajemo Tailwind CSS klase za grid
+
+21. Transitions & Transform
+-u folderu components kreiramo folder 15-transform-transition i komponentu TransformTransition.jsx
+-HTML elementima dodajemo Tailwind CSS klase za transform i tranziciju
+-u tailwind.config.js fajl dodajemo objekt transitionDuration
+
+22. Animation Classes & Keyframes
+-u folderu components kreiramo folder 16-animation i komponentu Animation.jsx
+-HTML elementima dodajemo Tailwind CSS klase za animacije
+-u tailwind.config.js fajl dodajemo objekte animation i keyframes
+
+23. Config & Customization
+-u folderu components kreiramo folder 17-customization i komponentu Customization.jsx
+-HTML elementima dodajemo Tailwind CSS klase za prilagodavanje
+-u tailwind.config.js fajl dodajemo objekte colors, borderRadius, spacing, screens
+
+24. Dark Mode
+-u folderu components kreiramo folder 18-dark-mode i komponentu DarkMode.jsx
+-HTML elementima dodajemo Tailwind CSS klase za tamnocu i svjetlocu
+-u index.html fajlu, elementu html dodajemo klasu dark
+-u tailwind.config.js fajlu dodajemo opciju darkMode: 'class'
+-otvorimo link https://www.creative-tim.com/twcomponents/component/toggle-switch
+-u index.css dodajemo klase .toggle-checkbox:checked
+-dodajemo logiku za izmjenu tema iz tamne u svijetlu i obrnuto
