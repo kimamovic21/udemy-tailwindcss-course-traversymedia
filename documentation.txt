@@ -29,3 +29,8 @@ Section 03: Tailwind Fundamentals - Part 2
 22. Animation Classes & Keyframes
 23. Config & Customization
 24. Dark Mode
+
+Section 04: A Better Development Environment
+25. Create An Environment With Tailwind CLI
+26. Directives & Functions
+27. Optional - Webpack & PostCSS Environment

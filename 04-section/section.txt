@@ -1,0 +1,14 @@
+Section 04: A Better Development Environment
+
+25. Create An Environment With Tailwind CLI
+
+26. Directives & Functions
+-u index.css fajl, dodajemo opciju objekt @layer base
+-u opciju @layer base dodajemo h1 HTML element
+-u objektu za h1 dodajemo opciju @apply i Tailwind CSS klasu
+-dodajemo opciju @layer components
+-u @layer components dodajemo klasu .btn-blue
+-u klasu .btn-blue dodajemo opciju @apply 
+-dodajemo klasu .content-area
+
+27. Optional - Webpack & PostCSS Environment
