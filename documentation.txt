@@ -34,3 +34,11 @@ Section 04: A Better Development Environment
 25. Create An Environment With Tailwind CLI
 26. Directives & Functions
 27. Optional - Webpack & PostCSS Environment
+
+Section 05: Mini-Projects Introduction
+28. Mini-Projects Introduction
+29. Mini-Project 1 - Email Subscribe Card
+30. Mini-Project 2 - Pricing Grids
+31. Mini-Project 3 - Product Modal
+32. Mini-Project 4 - Image Gallery
+33. Mini-Project 5 - Login Modal

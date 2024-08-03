@@ -1,0 +1,27 @@
+Section 05: Mini-Projects Introduction
+
+28. Mini-Projects Introduction
+
+29. Mini-Project 1 - Email Subscribe Card
+-u folderu src kreiramo folder 01-email-subscribe i komponentu EmailSubscribe.jsx
+-u komponenti EmailSubscribe.jsx HTML elementima dodajemo Tailwind CSS klase
+
+30. Mini-Project 2 - Pricing Grids
+-u folderu src kreiramo folder 02-pricing-grids i komponente: PricingGrids.jsx, PricingBasicCard.jsx, PricingStandardCard.jsx i PricingPremiumCard.jsx
+-u komponentu PricingGrids.jsx HTML elemntima dodajemo Tailwind CSS klase i importujemo komponente Basic, Standard i Premium
+-u komponentama Basic, Standard i Premium HTML elementima dodajemo Tailwind CSS klase
+
+31. Mini-Project 3 - Product Modal
+-u folderu src kreiramo folder 03-product-modal i komponentu ProductModal.jsx
+-u komponenti ProductModal.jsx HTML elementima dodajemo Tailwind CSS klase
+
+32. Mini-Project 4 - Image Gallery
+-u folderu src kreiramo folder 04-image-gallery i komponente ImageGallery.jsx i ImageComponent.jsx
+-u komponentu ImageGallery.jsx HTML elementima dodajemo Tailwind CSS klase
+-importujemo komponentu ImageComponent.jsx
+-u jsx-u svakoj komponenti ImageComponent dodajemo nekoliko prop
+-u komponenti ImageComponent.jsx, funkciji ImageComponent() dodajemo parametre destruktuirane prop title, image i desc
+
+33. Mini-Project 5 - Login Modal
+-u folderu src kreiramo folder 05-login-modal i komponentu LoginModal.jsx 
+-u komponenti LoginModal.jsx HTML elementima dodajemo Tailwind CSS klase
