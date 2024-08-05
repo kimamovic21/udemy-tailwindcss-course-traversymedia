@@ -2,3 +2,9 @@
  Tailwind CSS From Scratch | Learn By Building Projects
 
 Github Original Repository Link: https://github.com/bradtraversy/tailwind-course-projects
+
+
+Projects Live Demo
+
+05-section: 5 Mini Projects - https://udemy-tailwindcss-section-05.netlify.app/
+06-section: Clipboard       - https://udemy-tailwindcss-section-06.netlify.app/

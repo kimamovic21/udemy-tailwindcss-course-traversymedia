@@ -1,0 +1,41 @@
+Section 06: Project 1 - Clipboard Website
+
+34. Project Intro
+
+35. Setup & Config
+
+36. Hero Section & Background Image
+-u tailwind.config.js fajlu dodajemo objekt backgroundImage
+-kreiramo folder components i komponentu Hero.jsx
+-u Hero.jsx komponenti HTML section elementu dodajemo klase za pozadinu
+-u jsx-u HTML elementima dodajemo Tailwind CSS klase
+-u komponentu App.jsx dodajemo komponentu Hero.jsx
+
+37. Snippets Section & Using Directives
+-kreiramo komponentu Snippets.jsx
+-u komponentu App.jsx dodajemo komponentu Snippets.jsx
+-u komponenti Snippets.jsx, u jsx-u HTML elementima dodajemo Tailwind CSS klase
+-u index.css fajlu dodajemo direktivu @layer base za HTML element h3
+-kreiramo klase .section-container i .button-container
+
+38. Features Section & Items
+-kreiramo komponentu Features.jsx
+-u komponentu App.jsx dodajemo komponentu Features.jsx
+-u komponenti Features.jsx, u jsx-u HTML elementima dodajemo Tailwind CSS klase
+-kreiramo komponentu Access.jsx
+-u komponentu App.jsx importujemo komponentu Access.jsx
+-u jsx-u HTML elementima dodajemo Tailwind CSS klase
+
+39. Supercharge Section
+-u index.css fajlu kreiramo klasu section-content
+-kreiramo komponentu Supercharge.jsx
+-u jsx-u HTML elementima dodajemo Tailwind CSS klase
+-u komponentu App.jsx importujemo komponentu Supercharge.jsx
+
+40. References & Footer
+-kreiramo komponente References.jsx i Bottom.jsx
+-u komponentu App.jsx importujemo komponente References.jsx i Bottom.jsx
+-u kreiranim komponentama, u jsx-u HTML elementima dodajemo Tailwind CSS klase
+-kreiramo komponentu Footer.jsx
+
+41. Deploy to Netlify
