@@ -1,0 +1,57 @@
+Section 07: Project 2 - Loopstudios
+
+42. Project Intro
+
+43. Setup & Config
+-u tailwind.config.js fajl dodajemo u objekt theme objekte screens i extend
+
+44. Hero With Desktop Navigation
+-u index.css fajl dodajemo selektor #hero
+-u index.html fajl dodajemo font za slova
+-kreiramo komponentu Hero.jsx
+-u jsx-u HTML elementima dodajemo Tailwind CSS klase
+-u komponentu App.jsx dodajemo komponentu Hero.jsx
+-u index.css fajl dodajemo direktiva @media
+
+45. Feature Section
+-kreiramo komponentu Feature.jsx
+-u jsx-u HTML elementima dodajemo Tailwind CSS klase
+-u komponentu App.jsx dodajemo komponentu Feature.jsx
+
+46. Creations Section With Gradient Overlays
+-kreiramo komponentu Creations.jsx
+-u jsx-u HTML elementima dodajemo Tailwind CSS klase
+-u komponentu App.jsx dodajemo komponentu Creations.jsx
+-u index.css fajl dodajemo direktivu @layer components za klasu .btn
+-u klasu .btn dodajemo direktivu @apply
+-dodajemo klasu .item-container i direktivu @apply
+-dodajemo klasu .item i direktivu @apply
+-dodajemo klasu .item-gradient i direktivu @apply
+-dodajemo direktivu @layer base za HTML element h5
+-kreiramo komponentu CreationsItem.jsx
+-u komponentu Creations dodajemo komponentu CreationsItem.jsx
+-u jsx-u kreiramo vise komponente CreationsItem
+
+47. Footer
+-kreiramo komponentu Footer.jsx
+-kreiramo komponente FooterItem.jsx i FooterIcon.jsx
+-u komponentu Footer.jsx dodajemo kreirane komponente
+-u jsx-u HTML elementima dodajemo Tailwind CSS klase
+-u komponentu App.jsx dodajemo komponentu Footer.jsx
+
+48. Hamburger Button & Animation
+-u komponenti Hero.jsx kreiramo div element za Hamburger Menu
+-kreiramo div element za Mobile Menu
+-u index.css fajlu dodajemo selektor .hamburger i CSS stil za div za Hamburger Menu
+-dodajemo selektore .hamburger-top, .hamburger.middle i .hamburger-bottom i CSS stil za span elemente
+-dodajemo selektore .open i .hamburger-top
+-dodajemo selektore .opem i .hamburger-middle
+-dodajemo selektore .open i .hamburger-bottom
+
+49. Mobile Menu & JavaScript
+-kreiramo div element za Mobile Menu
+-kreiramo state varijablu const menuOpen i setfunkciju setMenuOpen
+-kreiramo funkciju navToggle()
+-button elementu dodajemo dogadaj onClick i proslijedujemo funkciju navToggle 
+
+50. Deploy To Vercel
