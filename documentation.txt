@@ -53,7 +53,7 @@ Section 06: Project 1 - Clipboard Website
 40. References & Footer
 41. Deploy to Netlify
 
-Section 07: Project 2 - Loopstudios
+Section 07: Project 2 - Loopstudios Website
 42. Project Intro
 43. Setup & Config
 44. Hero With Desktop Navigation
@@ -63,3 +63,14 @@ Section 07: Project 2 - Loopstudios
 48. Hamburger Button & Animation
 49. Mobile Menu & JavaScript
 50. Deploy To Vercel
+
+Section 08: Project 3 - Shortly Website
+51. Project Intro
+52. Setup & Config
+53. Navbar.jsx
+54. Hero Section
+55. Shorten Form & Links
+56. JavaScript Link Validation
+57. Feature Boxes
+58. CTA & Footer
+59. Mobile Menu
