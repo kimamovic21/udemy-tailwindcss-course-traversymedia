@@ -74,3 +74,11 @@ Section 08: Project 3 - Shortly Website
 57. Feature Boxes
 58. CTA & Footer
 59. Mobile Menu
+
+Section 09: Project 4 - Testimonial Grid Website
+60. Project Intro
+61. Setup & Config
+62. First Box
+63. Remaining Boxes
+64. Add Grid Classes
+65. Line Clamp Plugin

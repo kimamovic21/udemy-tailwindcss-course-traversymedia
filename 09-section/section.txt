@@ -1,0 +1,20 @@
+Section 09: Project 4 - Testimonial Grid Website
+
+60. Project Intro
+
+61. Setup & Config
+-u tailwind.config.js fajlu dodajemo objekte screens i fontFamily
+
+62. First Box
+-u folderu components kreiramo komponentu Box1.jsx
+-u komponentu App.jsx importujemo komponentu Box1.jsx
+
+63. Remaining Boxes
+-u folderu components kreiramo preostale komponente Box
+-u komponentu App.jsx importujemo komponente Box
+
+64. Add Grid Classes
+-div elementima dodajemo Tailwind CSS klase za Grid
+
+65. Line Clamp Plugin
+-HTML elementima dodajemo Tailwind CSS line-clamp klasu

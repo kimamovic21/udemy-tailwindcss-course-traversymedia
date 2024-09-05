@@ -10,3 +10,4 @@ Projects Live Demo
 ## 06-section: Clipboard Website   - https://udemy-tailwindcss-section-06.netlify.app/
 ## 07-section: Loopstudios Website - https://udemy-tailwindcss-section-07.netlify.app/
 ## 08-section: Shortly Website     - https://udemy-tailwindcss-section-08.netlify.app/
+## 09-section: Testimonial Grid    - https://udemy-tailwindcss-section-09.netlify.app/
