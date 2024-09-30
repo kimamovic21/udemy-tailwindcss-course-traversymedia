@@ -11,3 +11,4 @@ Projects Live Demo
 ## 07-section: Loopstudios Website - https://udemy-tailwindcss-section-07.netlify.app/
 ## 08-section: Shortly Website     - https://udemy-tailwindcss-section-08.netlify.app/
 ## 09-section: Testimonial Grid    - https://udemy-tailwindcss-section-09.netlify.app/
+## 10-section: Fylo Website        - https://udemy-tailwindcss-section-10.netlify.app/
