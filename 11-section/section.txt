@@ -1,0 +1,46 @@
+Section 11: Project 6 - Bookmark Manager Website
+
+74. Project Intro
+
+75. Setup & Config
+-u tailwind.config.js fajl dodajemo konfiguracione objekte screens, colors, fontFamily, backgroundImage
+-dodajemo Google font u index.html fajl
+
+76. Navbar
+-u folderu components kreiramo komponentu Navbar.jsx
+-u komponentu App.jsx importujemo komponentu Navbar.jsx
+-u komponenti Navbar.jsx kreiramo HTML elemente sa Tailwind CSS klasama
+
+77. Hero Section
+-u folderu components kreiramo komponentu Hero.jsx
+-u komponentu App.jsx importujemo komponentu Hero.jsx
+-u komponenti Hero.jsx kreiramo HTML elemente sa Tailwind CSS klasama
+-kreiramo div element sa klasom bg-hero
+-u index.css fajlu dodajemo upit @media(min-width: 1020px)
+-u upit @media dodajemo klasu .bg-hero
+
+78. Tabs & Panel Layout
+-u folderu components kreiramo komponente FeaturesHeading.jsx i FeaturesTabs.jsx
+-u komponentu App.jsx importujemo komponente FeaturesHeading.jsx i FeaturesTabs.jsx
+-u index.css fajlu kreiramo klasu bg.tabs
+-u komponenti FeaturesTabs.jsx, div elementima za Tab dodajemo atribut data-target
+
+79. JavaScript For Tabs
+-kreiran folder js i script.js fajl
+-u script.js fajl dodana javascript logika za tab elemente
+-u komponentu FeaturesTabs.jsx dodana React logika sa funkcijom useState() za otvaranje i zatvaranje tabova
+
+80. Download Boxes
+-u folderu components kreiramo komponente DownloadHeading.jsx i DownloadBoxes.jsx
+-u komponentu App.jsx importujemo komponente DownloadHeading.jsx i DownloadBoxes.jsx
+-u tailwind.config.js fajl dodajemo funkciju backgroundImage
+
+81. FAQ Accordion
+-u folderu components kreiramo komponente FAQHeading.jsx i FAQAccordion.jsx
+-u komponentu App.jsx importujemo komponente FAQHeading.jsx i FAQAccordion.jsx
+-u komponenti FAQAccordion.jsx div elementima dodajemo atribut tabindex
+
+82. Newsletter & Footer
+-u index.html fajlu HTML html elementu dodajemo klasu scroll-smooth
+-kreiramo komponente Newsletter.jsx i Footer.jsx
+-u komponentu App.jsx importujemo komponente Newsletter.jsx i Footer.jsx

@@ -92,3 +92,14 @@ Section 10: Project 5 - Fylo Website With Color Picker
 71. Features & Productive Sections
 72. Testimonials & Early Access
 73. Smooth Scroll & Footer
+
+Section 11: Project 6 - Bookmark Manager Website
+74. Project Intro
+75. Setup & Config
+76. Navbar
+77. Hero Section
+78. Tabs & Panel Layout
+79. JavaScript For Tabs
+80. Download Boxes
+81. FAQ Accordion
+82. Newsletter & Footer
